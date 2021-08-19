@@ -1,0 +1,12 @@
+body
+{
+	background: darkcyan;
+}
+
+img{
+	height: 60px;
+	width: 60px;
+	background-color: darkcyan;
+	border-color: darkcyan;
+	border-width: 10px;
+  }
